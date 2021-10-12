@@ -6,8 +6,6 @@ public class Test04 {
 		
 		System.out.println("»≠¿Ã∆√~");
 
-
-
 	}
 
 }

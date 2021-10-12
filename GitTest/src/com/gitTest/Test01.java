@@ -6,8 +6,11 @@ public class Test01 {
 		
 		System.out.println("첫 번째 테스트!");
 		System.out.println("조장님아 고생했다.");
+
 		System.out.println("충돌시험테스트");
-		
+
+		System.out.println("sdjfsjndfnsdfnmk");
+
 		
 
 	}
